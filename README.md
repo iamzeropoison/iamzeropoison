@@ -1,4 +1,4 @@
-![logo](https://github.com/iamzeropoison/iamzeropoison/blob/main/Github%20Banner.jpg)
+![logo](https://github.com/iamzeropoison/iamzeropoison/blob/main/Github%20baner.jpg)
 <h1 align="center">Hi 👋, I'm Zeropoison</h1>
 <h3 align="center">A part time BUG-HUNTER and PENETRATION TESTER.</h3>
 <img align="right" alt="coding" width="400" src="https://i.makeagif.com/media/5-20-2018/ZCsjru.gif">
